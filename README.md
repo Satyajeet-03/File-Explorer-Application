@@ -1,3 +1,5 @@
+📁 Assignment 1 – Console-Based File Explorer in C++
+
 📌 Objective
 
 Develop a console-based file explorer application in C++ that interfaces with the Linux operating system to perform and manage file and directory operations through system calls.
